@@ -1,14 +1,12 @@
-# Meus Primeiros Passos em Python 🐍
+# Estudos Python - prograMaria 🐍
 
-Este repositório contém as atividades práticas que desenvolvi durante o curso da **prograMaria**. 
+Repositório dedicado aos aprendizados do curso **Meus Primeiros Passos em Python**.
 
-## 📊 O que estudei:
-* **Estatística com Python:** Cálculo de média, desvio padrão e identificação de *outliers*.
-* **Visualização de Dados:** Criação de Boxplots para análise de distribuição.
-* **Manipulação com Pandas:** Uso do método `.apply()` para categorizar e agrupar dados de raça/etnia, facilitando a leitura dos resultados.
+## 🚀 O que tem aqui:
+* **Estatística Descritiva:** Identificação de outliers (valores discrepantes) e análise de dispersão.
+* **Manipulação de Dados:** Uso de Pandas para limpeza, tratamento e categorização de variáveis.
+* **Visualização:** Geração de gráficos de Boxplot para entender a distribuição dos dados.
 
-## 🛠️ Tecnologias:
-* Python
-* Pandas
-* Numpy
-* Matplotlib
+## 🛠️ Ferramentas Utilizadas:
+- **Linguagem:** Python 3
+- **Bibliotecas:** Pandas, Numpy e Matplotlib.
